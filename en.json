@@ -1,3 +1,4 @@
 {
-  "message": "hello"
+    "welcome_header": "Hello world!",
+    "message": "hello"
 }
